@@ -1,0 +1,9 @@
+.para{
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.bkgred{
+    background-color: red;
+}
